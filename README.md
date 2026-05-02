@@ -29,7 +29,7 @@ The platform supports **connected clinical trials**, enabling continuous monitor
 
 The Magnol.ai platform has been recognized by multiple industry organizations for innovation in digital health and clinical trial technology:
 
-* **[CIO 100 Award (2023)](https://www.cio.com/article/649549/eli-lilly-revolutionizes-clinical-trials-with-intelligent-sensor-cloud.html)** – awarded to organizations that drive business transformation through innovative use of technology.
+* **[CIO 100 Award (2023, 2024)](https://www.cio.com/article/649549/eli-lilly-revolutionizes-clinical-trials-with-intelligent-sensor-cloud.html)** – awarded to organizations that drive business transformation through innovative use of technology.
 
 * **[Gartner Eye on Innovation Award – Healthcare & Life Sciences (2024)](https://www.gartner.com/en/about/awards/eye-on-innovation/healthcare)** – recognizing breakthrough innovations advancing healthcare and life sciences technologies.
 
