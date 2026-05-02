@@ -138,7 +138,7 @@ Across these projects, several core research themes emerge:
 
 # Disclaimer
 
-The prototypes and artifacts shared here represent **research concepts, architectural explorations, and technical demonstrations** and do not necessarily reflect production implementations.
+The prototypes and artifacts shared here represent **research concepts, architectural explorations, and technical demonstrations** and as innovations are iterative they do not necessarily reflect our final production implementations.
 
 ---
 
