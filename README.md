@@ -123,7 +123,7 @@ Research topics include:
 
 ---
 
-# Research Themes
+# Major Themes
 
 Across these projects, several core research themes emerge:
 
