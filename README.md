@@ -3,7 +3,7 @@
 Executive Director – Software Engineering
 Digital Health Technology | Eli Lilly and Company
 
-Welcome to my GitHub. This profile hosts selected **research prototypes, platform architecture artifacts, and technical publications** related to AI systems and data platforms for **digital health and translational technology**.
+Welcome to my GitHub. This profile hosts selected **project prototypes, platform architecture artifacts, and technical publications** related to AI systems and data platforms for **digital health and translational technology**.
 
 I currently lead engineering initiatives supporting the **Digital Health Connected Clinical Trial** and **Translational Technology** pillars. Our work focuses on building scalable platforms that transform large-scale digital device data into actionable clinical insights.
 
