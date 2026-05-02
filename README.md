@@ -123,9 +123,7 @@ Research topics include:
 
 ---
 
-# Major Themes
-
-Across these projects, several core research themes emerge:
+# Core Themes
 
 * Digital Health Technology platforms
 * Wearable sensor data engineering
