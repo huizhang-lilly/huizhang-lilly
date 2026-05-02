@@ -111,7 +111,7 @@ These projects demonstrate how digital health platform capabilities can translat
 
 # Publications
 
-Associated research publications covering digital health platforms, sensor data engineering, AI systems, and digital biomarkers are available in the **Publications repository**.
+Associated research publications covering digital health platforms, sensor data engineering, AI systems, and digital biomarkers are available in the **[Publications repository](https://github.com/huizhang-lilly/Publications.git)**.
 
 Research topics include:
 
