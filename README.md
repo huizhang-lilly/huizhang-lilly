@@ -136,7 +136,7 @@ Research topics include:
 
 # Disclaimer
 
-The prototypes and artifacts shared here represent **concepts, prototypes, architectural explorations, and technical demonstrations**. Innovations are iterative they do not necessarily reflect our final production implementations.
+Some prototypes and artifacts shared here represent **concepts, prototypes, architectural explorations, and technical demonstrations**. Innovations are iterative they do not necessarily reflect our final production implementations.
 
 ---
 
